@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Alert_Dialogs</string>
+    <string name="dialog_fire_missile">Fire missiles..?</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="pick_color">Pick a Color</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string name="pick_toppings">Pick Your Toppings</string>
+    <string name="ok">Ok</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string-array name="pick_grocery">
+        <item>Onion</item>
+        <item>Lettuce</item>
+        <item>Tomato</item>
+    </string-array>
+</resources>
